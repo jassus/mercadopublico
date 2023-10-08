@@ -1,0 +1,1 @@
+Proyecto para scrapping de mercadopublico.cl
